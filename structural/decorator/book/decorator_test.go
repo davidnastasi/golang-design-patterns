@@ -1,4 +1,4 @@
-package decorator
+package book
 
 import (
 	"strings"
