@@ -1,4 +1,4 @@
-package pipeline
+package book
 
 func LaunchPipeline(amount int) int {
 	//firstCh := generator(amount)
